@@ -1,0 +1,93 @@
+{
+    "Navbar": {
+        "home": "Inicio",
+        "creations": "Creaciones",
+        "team": "Equipo",
+        "gallery": "Galería",
+        "contact": "Contacto"
+    },
+    "Home": {
+        "title": "Nosotros somos",
+        "subtitle": "Un estudio creador de contenido Minecraft para creadores de contenido.",
+        "sector_b_title": "Hacemos tus",
+        "sector_b_title_2": " realidad.",
+        "sector_b_sub": "Somos un equipo de desarrolladores, diseñadores, músicos, historiadores y más, apasionados por su trabajo con años de experiencia que pueden ayudarte a hacer realidad tus ideas y crear la mejor experiencia de un evento en Minecraft para ti.",
+        "sector_c_title": "Nuestras",
+        "sector_c_title_2": "creaciones.",
+        "sector_d_title": "Nuestros",
+        "sector_d_title_2": "colaboradores."
+    },
+    "Collabs": {
+        "aldogeo": "Streamer y youtuber mexicano iniciado en Twitch en 2018. Actualmente, cuenta con más de 1+ millón de seguidores en su canal. Participe del destacado evento: La Velada del Año IV.",
+        "ded": "Streamer y youtuber mexicano creador de contenido desde 2014. Actual streamer en Twitch, contando con más de 4 millones de seguidores, pionero de los eventos en Minecraft y considerado como el streamer de mayor variedad.",
+        "bobi": "Youtuber mexicano desde 2014, con más de 6 millones de subscriptores, ganador del concurso a nivel mundial Minecraft 10th Anniversary, escritor con 3 libros y partner oficial de Mojang Studios en la creación de contenido para Minecraft.",
+        "vegetta": "Youtuber español desde 2012 especializado en contenido variado, con más de 36 millones de subscriptores. Es el segundo youtuber más grande de España y el séptimo canal individual de habla-hispana con más suscriptores. Creador de series de Minecraft más conocidas como Karmaland o Planeta Vegetta.",
+        "willyrex": "Youtuber español desde 2009 con contenido variado, actualmente cuenta con más de 16 millones de subscriptores, y es considerado uno de los primeros en ser conocidos en la plataforma YouTube; participé de series junto a Vegetta777 como Karmaland o Planeta Wigetta.",
+        "fargan": "Youtuber español desde  2012 con contenido variado, actualmente cuenta con 5 millones de subscriptores; participé de series junto a Vegetta777 y más en Karmaland.",
+        "farfa": "Youtuber humorista de origen argentino con contenido de gameplays variados y vlogs, cuenta con más de 2 millones de suscriptores. Reconocido por ser el primero de habla hispana en llegar a las farlands en Minecraft.",
+        "pipe": "Youtuber de nacionalidad mexicana centralizada principalmente en gameplays. Cuenta con más de 2 millones de subscriptores y actual streamer en Twitch.",
+        "artcas": "Actor y director de doblaje mexicano, hijo de los también actores Rommy Mendoza y Mario Castañeda;  conocido por interpretar a Barry Allen / Flash en el Universo de DC, Whis en Dragon Ball, Mike Chang en Glee, Hades en Los Guerreros del Zodiaco, Justin Russo en Los hechiceros de Waverly Place y Robbie Shapiro en Victorious",
+        "angie": "Actriz de doblaje venezolana, hija de la también destacada actriz Rocío Mallo. Conocida como Aguamarina en Steven Universe,  Fluttershy en My Little Pony,  Diosa del engaño en Along With the Gods,  Piri Piri en Harvey Beaks y muchos personajes mas.",
+        "rocio": "Actriz de doblaje, teatro, cantante y locutora mexicovenezolana conocida por haber sido la voz de Garnet en Steven Universe, Roxy en Winx Club, Riza Hawkeye en Fullmetal Alchemist,  Super Cerdita en la serie homónima, Tracey en Jay Jay, el avioncito, entre muchos otros.",
+        "esteman": "Cantante y compositor colombiano de ascendencia escocesa.  Conocido en la escena musical colombiana con el videoclip de la canción 'No te metas a mi Facebook' y actual poseedor de 5 discos.",
+        "ddfood": "Plataforma rápida y confiable para pedidos de comida a domicilio, subsidiaria de DiDi, iniciando operaciones en abril de 2017.  Con DiDi food puedes tener tu platillo favorito en dónde lo necesites con solo un par de clics.",
+        "tdm": "Fundado en 1943, el Tecnológico de Monterrey, en una de las escuelas más prestigiosas de México,  con más de 80 años de trayectoria y 26 campus diferidos entre todo el país, ha mantenido su posición entre las 200 mejores escuelas del mundo, actualmente ocupando el puesto número 185."
+    },
+    "Notfound": {
+        "not_found_title": "Oh oh, B4NK1T0 no consiguió encontrar la página",
+        "not_found_desc": "Parece que la página que buscas no existe. Por favor, verifica la URL o regresa a la página de inicio."
+    },
+    "Events": {
+        "dedrun_high": "Es un evento basado en el típico sistema de 'Deathrun' popularizado por servidores publicos pero con la esencia que DED buscaba para volver este evento mas desafiante. Con la participación de 100 creadores de contenido.",
+        "dedrun_low": "Es un evento basado en el típico sistema de 'Deathrun' popularizado por servidores publicos. Protagonizado por DED y con la participación de 100 creadores de contenido.",
+        "dedcraft_high": "Es un servidor de Minecraft casi Vanilla en donde más de 200 creadores de contenido se unen para aprender de Minecraft en un mundo lleno de desafíos y aventuras; además, con la participación de personajes que agregan el toque roleplayer al servidor.",
+        "dedcraft_low": "Es un servidor de Minecraft casi Vanilla en donde más de 200 creadores de contenido se unen para aprender de Minecraft en un mundo lleno de desafíos y aventuras.",
+        "elpedido_high": "Es un evento llevado de la mano en colaboración de 'Didi Food' en el que diferentes creadores de contenido recorrían la Ciudad de Mexico para repartir pedidos con diferentes dinámicas y retos constantes. Además de contar con la participación de Rocío Mallo, quien dio vida al personaje principal.",
+        "elpedido_low": "Es un evento llevado de la mano en colaboración de 'Didi Food' en el que diferentes creadores de contenido recorrían la Ciudad de Mexico para repartir pedidos con diferentes dinámicas y retos constantes.",
+        "geoware_high": "Es un evento protagonizado por AldoGeo en donde diferentes creadores de contenido participaron en diferentes desafíos al puro estilo de 'WarioWare'.",
+        "geoware_low": "Es un evento protagonizado por AldoGeo en donde diferentes creadores de contenido participaron en diferentes desafíos al puro estilo de 'WarioWare'.",
+        "horm_high": "Es un evento de 1 semana protagonizado por AldoGeo en donde 100 creadores de contenido se sumergen en los roles de hormiga para trabajar colaborativamente en un hormiguero donde tenían retos y objetivos para progresar con la historia; hubo jefes, diferentes monstruos y muchos escenarios diseñados para la temática principal.",
+        "horm_low": "Es un evento de 1 semana protagonizado por AldoGeo en donde 100 creadores de contenido se sumergen en los roles de hormiga para trabajar colaborativamente en un hormiguero donde tenían retos y objetivos para progresar con la historia.",
+        "bingo_high": "Es un evento creado por DED en donde más de 75 creadores de contenido se embarcan en un desafiante mundo para completar un tablero de bingo convencional en donde deben cumplir una serie de retos y hacer líneas en su hoja. El formato llevado es en solos, dúos y cuartetos.",
+        "bingo_low": "Es un evento creado por DED en donde más de 75 creadores de contenido se embarcan en un desafiante mundo para completar un tablero de bingo convencional en donde deben cumplir una serie de retos y hacer líneas en su hoja.",
+        "penitencia_high": "Es un evento interactivo protagonizado por PipePunk en donde más de 80+ streamers se sumergen en una experiencia de terror al puro estilo de las películas 'Saw' con el propósito de sobrevivir a todas las pruebas en donde ellos mismos escriben su futuro con sus decisiones.",
+        "penitencia_low": "Es un evento interactivo protagonizado por PipePunk en donde más de 80+ streamers se sumergen en una experiencia de terror al puro estilo de las películas 'Saw'.",
+        "playersb_high": "Serie de eventos con temáticas variadas en donde Bobicraft junto a 200 seguidores entran a mundos de Minecraft con retos según la temática. Actualmente, cuenta con más de 80 ediciones diferentes en donde la última edición ha sido '200 jugadores en Poppy Playtime 3'",
+        "playersb_low": "Serie de eventos con temáticas variadas en donde Bobicraft junto a 200 seguidores entran a mundos de Minecraft con retos según la temática.",
+        "es4_high": "Es un evento protagonizado por DED, JuanGuarnizo, AriGameplays, BarcaGamer, RobertoCein y Charlitos en donde se adentraron en un mundo controlado por una corporación maléfica en donde cada uno de ellos debían derrotar jefes y una serie de retos para recuperar sus poderes y continuar con la historia.",
+        "es4_low": "Es un evento protagonizado por DED, JuanGuarnizo, AriGameplays, BarcaGamer, RobertoCein y Charlitos en donde se adentraron en un mundo controlado por una corporación maléfica.",
+        "mamoland_high": "Es un evento protagonizado por DED, JuanJuegaJuegos, Akim y MarioTQ en donde se adentraron a un mundo lleno de aventuras, desde monstruos nuevos hasta jefes finales, cuál objetivo era destruir al terrible 'Mamo' quien al final de la aventura les dio una gran sorpresa.",
+        "mamoland_low": "Es un evento protagonizado por DED, JuanJuegaJuegos, Akim y MarioTQ en donde se adentraron a un mundo lleno de aventuras, desde monstruos nuevos hasta jefes finales.",
+        "speedrun_high": "Serie de eventos protagonizados por DED en donde más de 50 creadores de contenido aceptan el reto de completar más rápido diferentes retos para conseguir puntos y así ganar el juego, estos han iniciado con ver quien completa más retos del mismo Minecraft hasta ver quien completa más rápido el juego. La última edición ha sido en colaboración con Borregos Gaming (Tecnológico de Monterrey).",
+        "speedrun_low": "Serie de eventos protagonizados por DED en donde más de 50 creadores de contenido aceptan el reto de completar más rápido diferentes retos para conseguir puntos y así ganar el juego.",
+        "survivaldub_high": "SurvivalDub es el primer proyecto de HexaCreators antes de ser llamados así e incluso de su anterior nombre MBP, un servidor al estilo de 'CubeCraft' en donde se han realizado eventos públicos y privados, un espacio en donde nació la dinámica de '200 Jugadores' de Bobicraft.",
+        "survivaldub_low": "SurvivalDub es el primer proyecto de HexaCreators antes de ser llamados así e incluso de su anterior nombre MBP, un servidor al estilo de 'CubeCraft' en donde se han realizado eventos públicos y privados."
+    },
+    "Team": {
+        "title_a": "Conoce a nuestro",
+        "title_b": "equipo."
+    },
+    "Footer": {
+        "rights": "Todos los derechos reservados",
+        "title_a": "Estudio",
+        "title_b": "Soporte y ayuda",
+        "title_c": "Legal",
+        "sub_aa": "Acerca de nosotros",
+        "sub_ab": "Colaboradores",
+        "sub_ba": "Contacto",
+        "sub_bb": "Preguntas frecuentes",
+        "sub_bc": "Servidor de Discord",
+        "sub_ca": "Política de privacidad",
+        "sub_cb": "Términos de servicio"
+    },
+    "Common": {
+        "btn_linked": "Ver mas",
+        "more": "Y mas...",
+        "langs": "Cambiar idioma",
+        "cards_title": "Estadísticas",
+        "date": "Fecha",
+        "playedtime": "horas de evento",
+        "players": "participantes",
+        "assets": "objetos creados"
+    }
+}
