@@ -21,6 +21,7 @@ export default function BlogPage() {
         {
           TeamMembers.map((member, index) => (
             <NextTeamCard
+              key={index}
               titleCard={member.name}
               subtitleCard={member.subtitle}
               image={member.image}
