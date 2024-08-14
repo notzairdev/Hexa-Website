@@ -67,6 +67,19 @@
         "title_a": "Conoce a nuestro",
         "title_b": "equipo."
     },
+    "Gallery": {},
+    "Contact": {
+        "title": "Contactanos",
+        "subtitle": "",
+        "form_a": "Nombre",
+        "form_a_a": "Nombre completo o nickname",
+        "form_b": "Email",
+        "form_b_a": "usuario@dominio.com",
+        "form_c": "Mensaje",
+        "form_c_a": "Escribe tu mensaje aquí...",
+        "form_c_b": "Intenta ser lo mas especifico posible.",
+        "form_d": "Enviar"
+    },
     "Footer": {
         "rights": "Todos los derechos reservados",
         "title_a": "Estudio",

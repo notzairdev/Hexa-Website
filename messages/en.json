@@ -71,6 +71,21 @@
         "title_a": "Meet our",
         "title_b": "team."
     },
+    "Gallery": {
+
+    },
+    "Contact": {
+        "title": "Contact us",
+        "subtitle": "",
+        "form_a": "Name",
+        "form_a_a": "Fullname or nickname",
+        "form_b": "Email",
+        "form_b_a": "user@domain.com",
+        "form_c": "Message",
+        "form_c_a": "Write your message here...",
+        "form_c_b": "Try to be as specific as possible",
+        "form_d": "Send message"
+    },
     "Footer": {
         "rights": "All rights reserved",
         "title_a": "Studio",

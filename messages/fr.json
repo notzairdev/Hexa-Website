@@ -67,6 +67,19 @@
         "title_a": "Rencontrez notre",
         "title_b": "équipe."
     },
+    "Gallery": {},
+    "Contact": {
+        "title": "Contactez-nous",
+        "subtitle": "",
+        "form_a": "Nom",
+        "form_a_a": "Nom complet ou surnom",
+        "form_b": "E-mail",
+        "form_b_a": "utilisateur@domaine.com",
+        "form_c": "Message",
+        "form_c_a": "Écrivez votre message ici...",
+        "form_c_b": "Essayez d'être aussi précis que possible",
+        "form_d": "Envoyer le message"
+    },
     "Footer": {
         "rights": "Tous droits réservés",
         "title_a": "Studio",

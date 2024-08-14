@@ -24,18 +24,37 @@ import {
 import { Tooltip } from "@nextui-org/tooltip";
 import { useLocale, useTranslations } from "next-intl";
 import LocaleSwitcher from "./localeSwitcher";
+import { useEffect, useState } from "react";
 
 export const Navbar = () => {
 
   const t = useTranslations('Navbar');
   const locale = useLocale()
 
+  const [scrollY, setScrollY] = useState(0);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrollY(window.scrollY)
+    }
+
+    handleScroll()
+
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, [])
+
   const buildLink = (page: string) => {
     return `/${locale}${page}`;
   };
-
+  
   return (
-    <NextUINavbar className="fixed select-none" maxWidth="xl">
+    <NextUINavbar
+      className="fixed select-none"
+      maxWidth="xl"
+    >
       <NavbarContent className="basis-1/5 sm:basis-full" justify="start">
         <NavbarBrand as="li" className="gap-3 max-w-fit">
           <NextLink href={"/" + locale}>

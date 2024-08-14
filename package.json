@@ -1,5 +1,6 @@
 {
-	"name": "next-app-template",
+	"name": "hexacreators-website",
+	"author": "notzairdev",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
